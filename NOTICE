@@ -1,0 +1,11 @@
+Haven theme for Home Assistant
+Copyright 2026 Haven contributors
+
+This product includes software derived from material-rounded-theme by Nerwyn
+(https://github.com/Nerwyn/material-rounded-theme), licensed under the
+Apache License 2.0.
+
+Modifications: restructured the theme into a single file with shared YAML
+anchors, renamed it to Haven, added light and dark mesh-gradient backgrounds
+with six colour variants (Aurora, Sunset, Ocean, Forest, Lavender, Mist),
+and added card-mod rules so dashboard background images blend over the gradient.
